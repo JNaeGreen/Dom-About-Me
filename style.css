@@ -1,0 +1,14 @@
+* {
+    font-family: arial, sans-serif;
+    font-style: italic;
+    background-color: azure;
+    justify-content: center;
+    margin-top: auto;
+    margin-left: 2em;
+}
+
+img {
+    width: 400px;
+    box-sizing: border-box;
+    border-color: aqua;
+}
